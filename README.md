@@ -1,10 +1,13 @@
 # MoodTracking
 
+**Deploy:** https://moodtracking.netlify.app/
+
 MoodTracking is a web application designed to help users track their daily moods using an interactive calendar and emoji-based mood selection. Built with Next.js, Tailwind CSS, and Firebase, it provides a seamless experience for mood logging and visualization.
 
 ## 🌟 Features
 - 📅 **Mood Tracking Calendar** - Log and view your mood history on a monthly calendar.
 - 😊 **Emoji-Based Mood Selection** - Choose from various moods to express your feelings.
+- 🤳 **Diary tracking** - Can daily comment along with your mood.
 - 📊 **Mood Analytics** - View average mood statistics over time.
 - 🔐 **Firebase Authentication** - Sign in securely using email/password or Google authentication.
 - 🎨 **Tailwind CSS Styling** - Aesthetic and responsive design.
@@ -58,6 +61,10 @@ MoodTracking is a web application designed to help users track their daily moods
     <img src="https://drive.google.com/uc?export=view&id=1t45jT7XO--8CxrQq8mXtVLqEtBUpU7tf" alt="Image" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
     </div>
 
+**😼 More**
+    <div style="width: 100%; height: 0; padding-bottom: 56.25%; position: relative;">
+    <img src="https://drive.google.com/uc?export=view&id=1HihABvcOk3o50oEZ3JHWjGT8OubqHI4r" alt="Image" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+    </div>
 ## 📌 Deployment
 The application is deployed on [Netlify](https://moodtracking.netlify.app/). For manual deployment:
 
